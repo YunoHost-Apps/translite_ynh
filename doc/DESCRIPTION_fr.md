@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+TransLite est une interface simple et légère pour Google Translate, DeepL, Yandex et DDG Translate, écrite en PHP.
