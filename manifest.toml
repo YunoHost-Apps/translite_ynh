@@ -15,7 +15,6 @@ maintainers = ["eric_G"]
 license = "Unlicense"
 website = "https://tl.bloat.cat/"
 demo = "https://tl.bloat.cat/"
-admindoc = "https://doc.yunohost.org/dev/packaging/"
 code = "https://codeberg.org/gospodin/translite"
 
 [integration]
