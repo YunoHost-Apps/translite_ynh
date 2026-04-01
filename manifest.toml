@@ -46,8 +46,7 @@ ram.runtime = "50M"
     url = "https://codeberg.org/gospodin/translite/archive/2a81cf6bac9f65d234a0c843aabe66904fa434c0.tar.gz"
     sha256 = "07684fd875c34b23058ea0a293fa5eeef1e3f0ea93e40e3e1cc76ca4d0a557b3"
 
-    autoupdate.upstream = "https://codeberg.org/gospodin/translite"
-    autoupdate.strategy = "latest_github_commit"
+    autoupdate.strategy = "latest_forgejo_commit"
 
     [resources.system_user]
 
@@ -62,4 +61,4 @@ ram.runtime = "50M"
 
     [resources.composer]
     version = "2.9.5"
-    
+
