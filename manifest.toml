@@ -7,7 +7,7 @@ name = "TransLite"
 description.en = "Frontend for Google Translate, DeepL, Yandex and DDG"
 description.fr = "Frontend pour Google Translate, DeepL, Yandex et DDG"
 
-version = "2026.03.21~ynh1"
+version = "2026.09.27~ynh1"
 
 maintainers = ["eric_G"]
 
@@ -43,8 +43,8 @@ ram.runtime = "50M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://codeberg.org/gospodin/translite/archive/2a81cf6bac9f65d234a0c843aabe66904fa434c0.tar.gz"
-    sha256 = "f0c6ee442ef299521d9c8144472fcad4ee1036eea00853c1ca8d3974a9ac8045"
+    url = "https://codeberg.org/gospodin/translite/archive/35b42f21b638c86847403599bd9e03b8adbcd7a6.tar.gz"
+    sha256 = "1c257f536f72248e3f9dd32dbc98d67cb7d658fc272d7e1db6ede5eed68082b2"
 
     autoupdate.strategy = "latest_forgejo_commit"
 
