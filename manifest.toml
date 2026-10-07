@@ -18,7 +18,7 @@ demo = "https://tl.bloat.cat/"
 code = "https://codeberg.org/gospodin/translite"
 
 [integration]
-yunohost = ">= 12.1.41"
+yunohost = ">= 12.1.40"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
